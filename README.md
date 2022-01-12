@@ -2,13 +2,14 @@
 
 ## implement folowing functionality from jest
 
+```
 describe
 it
 expect
 toBe
 toBeTruthy
 not
-
+```
 
 example
 ```
