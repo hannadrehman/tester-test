@@ -33,4 +33,5 @@ we are only testing primitive data types. number,string,booleans.
 it should work on other examples too which are not mentioned in the spec files.
 
 run `yarn test:jest` to run jest test runner
+
 run `yarn test:local` to run local test runner
