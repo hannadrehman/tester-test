@@ -11,14 +11,14 @@ not
 
 
 example
-
+```
 decribe('define what test does in this string', ()=>{
 
      it('define what exactly you are testing',()=>{
 
      })
 })
-
+```
 All tests should pass with local test runner.
 all failing tests should also fail with local test runner
 
